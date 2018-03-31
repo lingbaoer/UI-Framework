@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIFramework_siki", "UIFramework_siki.csproj", "{27C54C48-55BE-87DB-9A94-1A1CC368A1AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIFramework_siki.Editor", "UIFramework_siki.Editor.csproj", "{D4FA9A6A-A42C-FBA6-508B-0BF73AA16554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C54C48-55BE-87DB-9A94-1A1CC368A1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C54C48-55BE-87DB-9A94-1A1CC368A1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C54C48-55BE-87DB-9A94-1A1CC368A1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C54C48-55BE-87DB-9A94-1A1CC368A1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4FA9A6A-A42C-FBA6-508B-0BF73AA16554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FA9A6A-A42C-FBA6-508B-0BF73AA16554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FA9A6A-A42C-FBA6-508B-0BF73AA16554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FA9A6A-A42C-FBA6-508B-0BF73AA16554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
